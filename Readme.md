@@ -8,6 +8,7 @@ I learned a lot from him, so the style of code is similar.
 ## Usage
 1. Install
 `go get -u github.com/txzdream/negroni-gbk2utf8`
+Please ignore the info after you finish this command because I can not figure out how to make a middleware package.
 2. Use
 First,
 `import github.com/txzdream/negroni-gbk2utf8/gbk2utf8`
